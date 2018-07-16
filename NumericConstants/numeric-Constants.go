@@ -1,7 +1,7 @@
 /**
  * NumericConstants
  * Page 16/17
- * 
+ *
  *
  * @Author: Daniel Forwood
  * @Date:   2018-07-14 7:55 PM
